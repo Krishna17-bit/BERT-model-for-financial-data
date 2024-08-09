@@ -1,0 +1,8 @@
+### 2. requirements:
+
+```plaintext
+torch==1.8.1
+transformers==4.5.0
+pandas
+numpy
+sklearn
